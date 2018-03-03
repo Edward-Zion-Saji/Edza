@@ -11,4 +11,5 @@ speech_recognition<br>
 wikipedia<br>
 pygame<br>
 <br>
-Install all the packages/modules given above and run the code.
+Install all the packages/modules given above and run the code.<br>
+I suggest using Pycharm IDE for python programming. The community version is free.
